@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Warm Hearts Campaign",
+    "image": "https://i.ibb.co.com/G2dMJNF/c-1.jpg",
+    "description": "Collecting and distributing warm clothes to families in need.",
+    "status": "Active",
+    "contactInfo": "contact@warmhearts.org",
+    "division": "Dinajpur"
+  },
+  {
+    "id": 2,
+    "title": "Winter Relief Drive",
+    "image": "https://i.ibb.co.com/KDW3Jy8/c-2.jpg",
+    "description": "Providing jackets and blankets to underprivileged communities.",
+    "status": "Upcoming",
+    "contactInfo": "relief@winteraid.org",
+    "division": "Barishal"
+  },
+  {
+    "id": 3,
+    "title": "Cozy Winters Initiative",
+    "image": "https://i.ibb.co.com/1stX0CX/c-3.jpg",
+    "description": "Donating winter clothing to homeless shelters.",
+    "status": "Completed",
+    "contactInfo": "cozy@helpinghands.org",
+    "division": "Dinajpur"
+  },
+  {
+    "id": 4,
+    "title": "Bundle Up Campaign",
+    "image": "https://i.ibb.co.com/8Pg3CfG/c-4.jpg",
+    "description": "Distributing scarves and gloves to children in need.",
+    "status": "Active",
+    "contactInfo": "bundle@charityworks.org",
+    "division": "Rangpur"
+  },
+  {
+    "id": 5,
+    "title": "Winter Warmth Program",
+    "image": "https://i.ibb.co.com/6Z4mvhV/c-5.jpg",
+    "description": "Ensuring warm clothing for elderly citizens during harsh winters.",
+    "status": "Upcoming",
+    "contactInfo": "warmth@senioraid.org",
+    "division": "Barishal"
+  },
+  {
+    "id": 6,
+    "title": "Heated Smiles Campaign",
+    "image": "https://i.ibb.co.com/S0hPW4Y/c-6.jpg",
+    "description": "Spreading warmth and smiles by providing winter essentials.",
+    "status": "Active",
+    "contactInfo": "smiles@winterhelp.org",
+    "division": "Rangpur"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Winter Relief Drive",
+    "image": "https://i.ibb.co.com/F7Vk0pt/w-1.webp",
+    "division": "Barishal"
+  },
+  {
+    "id": 2,
+    "title": "Cozy Winters Initiative",
+    "image": "https://i.ibb.co.com/JrDGV31/w-2.webp",
+    "division": "Chattogram"
+  },
+  {
+    "id": 3,
+    "title": "Winter Warmth Program",
+    "image": "https://i.ibb.co.com/DtcMz7y/w-3.jpg",
+    "division": "Khulna"
+  }
+]

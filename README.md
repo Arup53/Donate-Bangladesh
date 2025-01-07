@@ -35,4 +35,13 @@ Donate Bangladesh aims to bridge the gap between donors and volunteers by creati
 
 5. **Flowbite-React**
 
+
+## Repo Initialization
+
+To get started with this repository, follow these steps:
+
+1. Clone the repository
+2. npm install
+3. npm run dev
+ 
 ---

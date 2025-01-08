@@ -22,6 +22,17 @@ Donate Bangladesh aims to bridge the gap between donors and volunteers by creati
 3. **Update User Profile**
    - Users can update their profile through the dashboard.
    - The feature navigates users to a dedicated profile update page and redirects them back to the dashboard upon completion.
+  
+## Key Technologies used
+1. React
+
+2. Express Js
+
+3. Firebase
+
+4. Mongodb
+
+
 
 ## npm Packages Used
 
